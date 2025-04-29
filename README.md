@@ -138,6 +138,6 @@ Please check out the official repository for this project for an in depth view o
 ---
 
 ## 📫 **Let’s Connect!**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/yourprofile) [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail)](mailto:your.email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/simon-due-kristensen-470624264/) [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail)](mailto:simon.99@live.dk)  
 
 ✨ **Thanks for visiting!**  
