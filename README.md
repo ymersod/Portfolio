@@ -26,6 +26,8 @@ Inspired by *Jump King* and *It Takes Two*, designed for streamers and couch cha
 
 📂 **Repo:** [GitHub](https://gitshare.me/repo/f1d654c5-26e6-493d-b61e-3ae2d81737d6)  
 🎥 **Demo Trailer:** [Coming soon!]()
+🕹️ **Last playable demo** (*Not up to date with codebase*): [Demo](https://gofile.io/d/iGT8zG)
+
 
 ### 🧩 Highlights
 - 🎮 **Steam Integration**: Implemented Steamworks for seamless multiplayer and game presence.
@@ -42,8 +44,9 @@ Inspired by *Jump King* and *It Takes Two*, designed for streamers and couch cha
 
 *A full-stack, solo-driven mod suite for Pokémon Reborn with leaderboard integration and customized calculator.*
 
+✅ **Built With:** Ruby, TypeScript, JavaScript, C#, GitHub Actions, Azure
 📦 **Role:** Solodev
-⚙️ **Tech Stack:** Ruby, TypeScript, JavaScript, C#, GitHub Actions, Azure, RPG Maker XP
+⚙️ **Focus:** Enhancing accessibility and improving the user experience for players wanting to Nuzlocke 
 
 ![Leaderboard](https://img.shields.io/github/deployments/ymersod/nuzborn_leaderboard/github-pages?label=Leaderboard&style=for-the-badge)
 ![Calculator](https://img.shields.io/github/deployments/ymersod/rebornXrunbunUIcalc/github-pages?label=Calculator&style=for-the-badge)
@@ -91,7 +94,7 @@ Please check out the official repository for this project for an in depth view o
 
 ✅ **Built With:** Unity (C#)  
 🎮 **Role:** Solodev
-⚙️ **Focus:** Resource balancing, AI behavior, 
+⚙️ **Focus:** Resource balancing, AI behavior, Complex algorithms
 
 📂 **Repo:** [GitHub](https://github.com/ymersod/GMD)  
 🎥 **Trailer:** [YouTube](https://www.youtube.com/watch?v=kDkKGUHGPIk&ab_channel=Dankerdue%28lady%29)  
