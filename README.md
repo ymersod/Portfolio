@@ -93,7 +93,7 @@ Please check out the official repository for this project for an in depth view o
 *A fast-paced hack & slash survival game where the divine shape a chaotic world in real-time.*
 
 ✅ **Built With:** Unity (C#)  
-🎮 **Role:** Solodev
+🎮 **Role:** Solodev <br>
 ⚙️ **Focus:** Resource balancing, AI behavior, Complex algorithms
 
 📂 **Repo:** [GitHub](https://github.com/ymersod/GMD)  
