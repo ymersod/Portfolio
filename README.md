@@ -4,10 +4,10 @@
 ---
 
 ## 🚀 **About Me**  
-🎓 **MSc in Software Engineering** from VIA University College  
-💡 Passionate about **user-focused solutions**, validated through rigorous testing and continuous feedback  
-🕹️ Currently working on **[Trials of Friendship](https://gitshare.me/repo/f1d654c5-26e6-493d-b61e-3ae2d81737d6)**, with a talented and trusted artist by my side. We're grinding to launch a playable Steam demo ASAP.
-🔍 Actively seeking opportunities in **Software Engineering & Game Development**  
+🎓 **MSc in Software Engineering** from VIA University College  <br>
+💡 Passionate about **user-focused solutions**, validated through rigorous testing and continuous feedback  <br>
+🕹️ Currently working on **[Trials of Friendship](https://gitshare.me/repo/f1d654c5-26e6-493d-b61e-3ae2d81737d6)**, with a talented and trusted artist by my side. We're grinding to launch a playable Steam demo ASAP. <br>
+🔍 Actively seeking opportunities in **Software Engineering & Game Development** <br>
 
 ⚡ **Fun Fact:** *I own a 1st edition Blue eyes white dragon*
 
