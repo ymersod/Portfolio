@@ -44,9 +44,9 @@ Inspired by *Jump King* and *It Takes Two*, designed for streamers and couch cha
 
 *A full-stack, solo-driven mod suite for Pokémon Reborn with leaderboard integration and customized calculator.*
 
-✅ **Built With:** Ruby, TypeScript, JavaScript, C#, GitHub Actions, Azure
-📦 **Role:** Solodev
-⚙️ **Focus:** Enhancing accessibility and improving the user experience for players wanting to Nuzlocke 
+✅ **Built With:** Ruby, TypeScript, JavaScript, C#, GitHub Actions, Azure.
+📦 **Role:** Solodev.
+⚙️ **Focus:** Enhancing accessibility and improving the user experience for players wanting to Nuzlocke.
 
 ![Leaderboard](https://img.shields.io/github/deployments/ymersod/nuzborn_leaderboard/github-pages?label=Leaderboard&style=for-the-badge)
 ![Calculator](https://img.shields.io/github/deployments/ymersod/rebornXrunbunUIcalc/github-pages?label=Calculator&style=for-the-badge)
