@@ -25,7 +25,7 @@ Inspired by *Jump King* and *It Takes Two*, designed for streamers and couch cha
 ⚙️ **Focus:** Precision physics, networked co-op, Foddian-style frustration design
 
 📂 **Repo:** [GitHub](https://gitshare.me/repo/f1d654c5-26e6-493d-b61e-3ae2d81737d6)  
-🎥 **Demo Trailer:** [Coming soon!]()
+🎥 **Demo Trailer:** [Coming soon!]() <br>
 🕹️ **Last playable demo** (*Not up to date with codebase*): [Demo](https://gofile.io/d/iGT8zG)
 
 
