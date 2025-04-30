@@ -68,6 +68,26 @@ Please check out the official repository for this project for an in depth view o
 
 ---
 
+## 🎓 Bachelors Project  
+*An interactive experience to take back control over your economy*
+
+✅ **Built With:** TypeScript, React, Tailwind  
+🎮 **Role:** Tester, UX, Feature Developer  
+⚙️ **Focus:** Creating an app through UX theory, using user tests to harvest actionable requirements  
+
+📂 **Repo:** [*Under NDA*]()
+
+### 🧩 My Contributions  
+- 📝 **Planned user tests**, including test structure and iterating on our approach to testing after each session  
+- 📅 **Coordinated** and scheduled usability testing with participants  
+- 🧪 **Conducted tests** and gathered important user feedback
+- 🔍 **Analyzed feedback** to extract insights and define product requirements  
+- 🎨 **Designed UX** using Norman’s Three Levels of Design (visceral, behavioral, reflective)  
+- 💻 **Implemented interactive features** using React + TypeScript 
+
+
+---
+
 ## 🧗‍♂️ Climbing Over It
 
 *A rage-platformer inspired by "Getting Over It & A Difficult Game About Climbing" — physics-driven, minimalistic, and brutally challenging.*
