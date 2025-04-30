@@ -9,7 +9,7 @@
 🕹️ Currently working on **[Trials of Friendship](https://gitshare.me/repo/f1d654c5-26e6-493d-b61e-3ae2d81737d6)**, with a talented and trusted artist by my side. We're grinding to launch a playable Steam demo ASAP. <br>
 🔍 Actively seeking opportunities in **Software Engineering & Game Development** <br>
 
-⚡ **Fun Fact:** *I own a 1st edition Blue eyes white dragon*
+⚡ **Fun Fact:** *I'm a proud owner of a 1st edition Blue eyes white dragon YU-GI-OH Card*
 
 ---
 
@@ -63,7 +63,7 @@ Please check out the official repository for this project for an in depth view o
 ### 🧩 What I Built
 
 - 🧱 **Modpack** (Ruby): Integrates with Pokémon Reborn to auto-enforce Nuzlocke rules, permadeath, and encounter restrictions in-game.
-- 🧮 **Battle Calculator** (TypeScript + React): Supports field effects, abilities, EVs/IVs, and Reborn-specific mechanics for boss prep. (*Calculator a fork from [runbuncalc](https://github.com/ForwardFeed/runbuncalc)*)
+- 🧮 **Battle Calculator** (TypeScript + React): Supports field effects, abilities, EVs/IVs, and Reborn-specific mechanics for boss prep. (*Calculator is forked from [runbuncalc](https://github.com/ForwardFeed/runbuncalc)*)
 - 🏆 **Leaderboard** (C#, Azure): Stores run stats, updates automatically from the mod, and deploys via GitHub Pages + Azure Functions.
 
 ---
