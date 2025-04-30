@@ -4,10 +4,10 @@
 ---
 
 ## 🚀 **About Me**  
-🎓 **MSc in Software Engineering** from VIA University College  
-💡 Passionate about **user-focused solutions**, validated through rigorous testing and continuous feedback  
-🕹️ Currently working on **[Trials of Friendship](https://gitshare.me/repo/f1d654c5-26e6-493d-b61e-3ae2d81737d6)**, with a talented and trusted artist by my side. We're grinding to launch a playable Steam demo ASAP.
-🔍 Actively seeking opportunities in **Software Engineering & Game Development**  
+🎓 **MSc in Software Engineering** from VIA University College  <br>
+💡 Passionate about **user-focused solutions**, validated through rigorous testing and continuous feedback  <br>
+🕹️ Currently working on **[Trials of Friendship](https://gitshare.me/repo/f1d654c5-26e6-493d-b61e-3ae2d81737d6)**, with a talented and trusted artist by my side. We're grinding to launch a playable Steam demo ASAP. <br>
+🔍 Actively seeking opportunities in **Software Engineering & Game Development** <br>
 
 ⚡ **Fun Fact:** *I own a 1st edition Blue eyes white dragon*
 
@@ -44,9 +44,9 @@ Inspired by *Jump King* and *It Takes Two*, designed for streamers and couch cha
 
 *A full-stack, solo-driven mod suite for Pokémon Reborn with leaderboard integration and customized calculator.*
 
-✅ **Built With:** Ruby, TypeScript, JavaScript, C#, GitHub Actions, Azure
-📦 **Role:** Solodev
-⚙️ **Focus:** Enhancing accessibility and improving the user experience for players wanting to Nuzlocke 
+✅ **Built With:** Ruby, TypeScript, JavaScript, C#, GitHub Actions, Azure <br>
+📦 **Role:** Solodev <br>
+⚙️ **Focus:** Enhancing accessibility and improving the user experience for players wanting to Nuzlocke
 
 ![Leaderboard](https://img.shields.io/github/deployments/ymersod/nuzborn_leaderboard/github-pages?label=Leaderboard&style=for-the-badge)
 ![Calculator](https://img.shields.io/github/deployments/ymersod/rebornXrunbunUIcalc/github-pages?label=Calculator&style=for-the-badge)
@@ -113,7 +113,7 @@ Please check out the official repository for this project for an in depth view o
 *A fast-paced hack & slash survival game where the divine shape a chaotic world in real-time.*
 
 ✅ **Built With:** Unity (C#)  
-🎮 **Role:** Solodev
+🎮 **Role:** Solodev <br>
 ⚙️ **Focus:** Resource balancing, AI behavior, Complex algorithms
 
 📂 **Repo:** [GitHub](https://github.com/ymersod/GMD)  
@@ -158,6 +158,6 @@ Please check out the official repository for this project for an in depth view o
 ---
 
 ## 📫 **Let’s Connect!**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/yourprofile) [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail)](mailto:your.email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/simon-due-kristensen-470624264/) [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail)](mailto:simon.99@live.dk)  
 
 ✨ **Thanks for visiting!**  
