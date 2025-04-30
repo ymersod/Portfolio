@@ -129,31 +129,54 @@ Please check out the official repository for this project for an in depth view o
 
 ---
 
-## 🛠️ **Tech Stack**  
+# 🛠️ Tech Stack
 
-### **💻 Languages**  
-**Expert:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)  
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-**Familiar:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)  
+### 🌐 Languages  
+#### Experienced  
+<img src="https://skillicons.dev/icons?i=js,ts,java,cs" height="50" />
 
-<br>
+#### Familiar  
+<img src="https://skillicons.dev/icons?i=python,ruby,c" height="50" />
 
-### **🧩 Frameworks & Tools**  
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)  
+### 💻 Frontend Development  
+#### Experienced  
+<img src="https://skillicons.dev/icons?i=react,angular" height="50" />
 
-**Backend/DevOps:**  
-![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
+#### Familiar  
+<img src="https://skillicons.dev/icons?i=tailwindcss" height="50" />
 
-**Game Dev:**  
-![Unity](https://img.shields.io/badge/-Unity-FFFFFF?logo=unity&logoColor=black) ![Godot](https://img.shields.io/badge/-Godot-478CBF?logo=godot-engine&logoColor=white)  
+### 🗄️ Databases  
+#### Expert  
+<img src="https://skillicons.dev/icons?i=postgres" height="50" />
 
-<br>
+#### Familiar  
+<img src="https://skillicons.dev/icons?i=mongodb" height="50" />
 
-### **🗄️ Databases**  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) 
+</td>
+    <td valign="top" width="50%">
+
+### 🔧 Backend & DevOps  
+#### Expert  
+<img src="https://skillicons.dev/icons?i=cs,azure" height="50" />
+
+#### Familiar  
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" height="50" />
+
+### 🎮 Game Development  
+#### Expert  
+<img src="https://skillicons.dev/icons?i=unity" height="50" />
+
+#### Familiar  
+<img src="https://skillicons.dev/icons?i=godot" height="50" />
+
+</td>
+  </tr>
+</table>
+ 
 
 ---
 
