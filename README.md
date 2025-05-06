@@ -35,7 +35,7 @@ Inspired by *Jump King* and *It Takes Two*, designed for streamers and couch cha
 - 💾 **Save & Options Systems**: Built JSON-based save/load and playerPrefs settings menu from scratch.
 - 🎯 **Design Vision**: Built around streamable moments: chaotic co-op, rage-quits, and moral dilemmas in-game.
 - 🌀 **Responsive Controls**: Build crisp, snappy movement using Unity’s physics system for tight gameplay feel.
-- 🧑‍🤝‍🧑 **Internal Playtesting**: Conducted multiple playtests with diverse player groups to refine mechanics and prove core concept of the game.
+- 🧑‍🤝‍🧑 **Internal Playtesting**: Conducted multiple playtests with diverse player groups to refine mechanics and prove core gameplay & design of the game.
 
 
 ---
