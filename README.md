@@ -33,7 +33,7 @@
 - 🔐 **Ownership Handling:** Implemented a seamless ownership system to manage in-game objects across players, ensuring correct permissions and interactions in multiplayer environments.
 - 🧑‍🤝‍🧑 **Internal Playtesting:** Conducted multiple exploratory playtests with regular Roblox players to reduce developer bias and refine core mechanics based on real user feedback.
 
-
+---
 
 ## 🎭  Trials of Friendship
 
