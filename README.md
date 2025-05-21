@@ -15,6 +15,26 @@
 
 # 🎮 **Featured Projects**  
 
+## 🥚 Hatch a capybara
+
+*An idle tycoon experience on Roblox, designed for steady progress — even while you're AFK. Features a thoughtfully balanced progression system.*
+
+⏳ **Development Time:** 20 days — built as a challenge to see how quickly a full Roblox game could be created from scratch, with no prior knowledge of roblox studio or Lua.
+
+✅ **Built With:** Roblox Studio (Lua), NoSQL DataStore APIs  
+🎮 **Role:** Solo Developer  
+⚙️ **Focus:** Rapid prototyping, systems design, and learning through iteration
+
+🕹️ **Play the Game:** [Hatch a Capybara](https://www.roblox.com/games/108083190601292/NEW-Hatch-Capys#!/about)
+
+### 🧩 Highlights
+- 🗃️ **Data Retention System:** Designed a system that serializes in-game objects into simple key-value pairs for efficient saving and loading, supporting persistent progression across sessions.
+- 🧠 **Runtime Architecture:** Minimized duplicate code by creating setup scripts that dynamically inject logic scripts into objects at runtime, improving maintainability and scalability.
+- 🔐 **Ownership Handling:** Implemented a seamless ownership system to manage in-game objects across players, ensuring correct permissions and interactions in multiplayer environments.
+- 🧑‍🤝‍🧑 **Internal Playtesting:** Conducted multiple exploratory playtests with regular Roblox players to reduce developer bias and refine core mechanics based on real user feedback.
+
+
+
 ## 🎭  Trials of Friendship
 
 *A physics-based, co-op 2D puzzle platformer where players test each other's trust, patience, and greed.*  
@@ -137,7 +157,7 @@ Please check out the official repository for this project for an in depth view o
 
 ### 🌐 Languages  
 #### Experienced  
-<img src="https://skillicons.dev/icons?i=js,ts,java,cs" height="50" />
+<img src="https://skillicons.dev/icons?i=js,ts,java,cs,lua" height="50" />
 
 #### Familiar  
 <img src="https://skillicons.dev/icons?i=python,ruby,c" height="50" />
@@ -160,15 +180,15 @@ Please check out the official repository for this project for an in depth view o
     <td valign="top" width="50%">
 
 ### 🔧 Backend & DevOps  
-#### Expert  
+#### Experienced  
 <img src="https://skillicons.dev/icons?i=cs,azure" height="50" />
 
 #### Familiar  
 <img src="https://skillicons.dev/icons?i=docker,kubernetes" height="50" />
 
 ### 🎮 Game Development  
-#### Expert  
-<img src="https://skillicons.dev/icons?i=unity" height="50" />
+#### Experienced  
+<img src="https://skillicons.dev/icons?i=unity,robloxstudio" height="50" />
 
 #### Familiar  
 <img src="https://skillicons.dev/icons?i=godot" height="50" />
