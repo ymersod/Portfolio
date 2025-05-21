@@ -21,7 +21,7 @@
 
 ⏳ **Development Time:** 20 days — built as a challenge to see how quickly a full Roblox game could be created from scratch, with no prior knowledge of roblox studio or Lua.
 
-✅ **Built With:** Roblox Studio (Lua), NoSQL DataStore APIs.
+✅ **Built With:** Roblox Studio (Lua), NoSQL DataStore APIs. <br>
 🎮 **Role:** Gameplay engineer, systems engineer *(Sole programmer)*. <br>
 ⚙️ **Focus:** Rapid prototyping, systems design, and learning through iteration. <br>
 
