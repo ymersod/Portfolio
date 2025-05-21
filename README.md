@@ -21,9 +21,9 @@
 
 ⏳ **Development Time:** 20 days — built as a challenge to see how quickly a full Roblox game could be created from scratch, with no prior knowledge of roblox studio or Lua.
 
-✅ **Built With:** Roblox Studio (Lua), NoSQL DataStore APIs  
-🎮 **Role:** Gameplay engineer, systems engineer *(Sole programmer)* 
-⚙️ **Focus:** Rapid prototyping, systems design, and learning through iteration
+✅ **Built With:** Roblox Studio (Lua), NoSQL DataStore APIs.
+🎮 **Role:** Gameplay engineer, systems engineer *(Sole programmer)*.
+⚙️ **Focus:** Rapid prototyping, systems design, and learning through iteration.
 
 🕹️ **Play the Game:** [Hatch a Capybara](https://www.roblox.com/games/108083190601292/NEW-Hatch-Capys#!/about)
 
