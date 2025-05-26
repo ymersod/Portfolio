@@ -160,7 +160,7 @@ Please check out the official repository for this project for an in depth view o
 <img src="https://skillicons.dev/icons?i=js,ts,java,cs,lua" height="50" />
 
 #### Familiar  
-<img src="https://skillicons.dev/icons?i=python,ruby,c" height="50" />
+<img src="https://skillicons.dev/icons?i=python,ruby,c, python" height="50" />
 
 ### 💻 Frontend Development  
 #### Experienced  
@@ -181,7 +181,7 @@ Please check out the official repository for this project for an in depth view o
 
 ### 🔧 Backend & DevOps  
 #### Experienced  
-<img src="https://skillicons.dev/icons?i=azure" height="50" />
+<img src="https://skillicons.dev/icons?i=azure,github" height="50" />
 
 #### Familiar  
 <img src="https://skillicons.dev/icons?i=docker,kubernetes" height="50" />
