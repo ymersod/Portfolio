@@ -181,7 +181,7 @@ Please check out the official repository for this project for an in depth view o
 
 ### 🔧 Backend & DevOps  
 #### Experienced  
-<img src="https://skillicons.dev/icons?i=cs,azure" height="50" />
+<img src="https://skillicons.dev/icons?i=azure" height="50" />
 
 #### Familiar  
 <img src="https://skillicons.dev/icons?i=docker,kubernetes" height="50" />
