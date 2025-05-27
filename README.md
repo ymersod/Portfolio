@@ -160,7 +160,7 @@ Please check out the official repository for this project for an in depth view o
 <img src="https://skillicons.dev/icons?i=js,ts,java,cs,lua" height="50" />
 
 #### Familiar  
-<img src="https://skillicons.dev/icons?i=python,ruby,c, python" height="50" />
+<img src="https://skillicons.dev/icons?i=python,ruby,c,python" height="50" />
 
 ### 💻 Frontend Development  
 #### Experienced  
