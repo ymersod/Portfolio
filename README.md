@@ -15,15 +15,38 @@
 
 # 🎮 **Featured Projects**  
 
+# 🖐 King of the Slap
+
+*A "King of the Hill" experience on Roblox, inspired by .io games. The game runs persistently, allowing players to jump in at any time, making onboarding seamless.*
+
+⏳ **Development:** In progress. Built by a small, passionate team of 5 game developers.  
+✅ **Built With:** Roblox Studio (Luau), NoSQL DataStore APIs  
+🎮 **Role:** Gameplay Engineer, GUI Engineer, Team Lead  
+⚙️ **Focus:** Designing a fun and monetizable game experience  
+
+📂 **Repo:** [GitHub](https://github.com/ymersod/RobloxProjects)
+
+
+## 🧩 My Contributions
+
+- 📝 **Task Management**: Defined and refined development tasks, prioritizing milestones and sprint planning  
+- 👁️ **Project Vision**: Led the conceptual direction of core systems and mechanics for launch  
+- 🎨 **GUI Design**: Built a responsive and intuitive GUI that scales across mobile, tablet, and PC  
+- 🎒 **Custom Inventory System**: Developed a tailored inventory system to support unique gameplay mechanics
+
+---
+
 ## 🥚 Hatch a capybara
 
 *An idle tycoon experience on Roblox, designed for steady progress — even while you're AFK. Features a thoughtfully balanced progression system.*
 
-⏳ **Development Time:** 20 days — built as a challenge to see how quickly a full Roblox game could be created from scratch, with no prior knowledge of roblox studio or Lua.
+⏳ **Development Time:** 20 days — built as a challenge to see how quickly a full Roblox game could be created from scratch, with no prior knowledge of roblox studio or Luau.
 
-✅ **Built With:** Roblox Studio (Lua), NoSQL DataStore APIs. <br>
+✅ **Built With:** Roblox Studio (Luau), NoSQL DataStore APIs. <br>
 🎮 **Role:** Gameplay engineer, systems engineer *(Sole programmer)*. <br>
 ⚙️ **Focus:** Rapid prototyping, systems design, and learning through iteration. <br>
+
+
 
 🕹️ **Play the Game:** [Hatch a Capybara](https://www.roblox.com/games/108083190601292/NEW-Hatch-Capys#!/about)
 
