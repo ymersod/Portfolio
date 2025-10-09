@@ -15,17 +15,35 @@
 
 # 🎮 **Featured Projects**  
 
+# 🚽 Don't Let It Overflow  
+
+*A chaotic, casual “don’t let it” experience on Roblox — players must manage flushing without overflowing the toilet! Starts in a lobby, then transitions into a fast-paced running mode.*
+
+⏳ **Development:** In progress. Built by 2 game developers and 1 business developer  
+✅ **Built With:** Roblox Studio (Luau), NoSQL DataStore APIs  
+🎮 **Role:** Gameplay Engineer, GUI Engineer, Team Lead  
+⚙️ **Focus:** Creating a fun, replayable casual game designed for horizontal scalability into multiple themed versions  
+
+📂 **Repo:** [GitHub](https://github.com/ymersod/OverflowT)
+
+## 🧩 My Contributions
+- 🧱 **Scalable Prefabs:** Engineered modular prefab systems allowing for easy duplication and player-specific variations  
+- ⚙️ **Scalable Systems:** Built backend and gameplay systems to support expansion into new game modes  
+- 🎨 **GUI Design:** Developed a clean, responsive interface that updates efficiently and only when necessary 
+
+---
+
 # 🖐 King of the Slap
 
 *A "King of the Hill" experience on Roblox, inspired by .io games. The game runs persistently, allowing players to jump in at any time, making onboarding seamless.*
 
-⏳ **Development:** In progress. Built by a small, passionate team of 5 game developers.  
+⏳ **Development:** Built by a small, passionate team of 5 game developers.  
 ✅ **Built With:** Roblox Studio (Luau), NoSQL DataStore APIs  
 🎮 **Role:** Gameplay Engineer, GUI Engineer, Team Lead  
 ⚙️ **Focus:** Designing a fun and monetizable game experience  
 
 📂 **Repo:** [GitHub](https://github.com/ymersod/RobloxProjects)
-
+🕹️ **Play the Game:** [King of the slap](https://www.roblox.com/games/123789758329753/King-of-Slap)
 
 ## 🧩 My Contributions
 
