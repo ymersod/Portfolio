@@ -6,7 +6,7 @@
 ## 🚀 **About Me**  
 🎓 **MSc in Software Engineering** from VIA University College  <br>
 💡 Passionate about **user-focused solutions**, validated through rigorous testing and continuous feedback  <br>
-🕹️ Currently working on **[Trials of Friendship](https://gitshare.me/repo/f1d654c5-26e6-493d-b61e-3ae2d81737d6)**, with a talented and trusted artist by my side. We're grinding to launch a playable Steam demo ASAP. And acting as team-lead on project **[King of the slap](https://github.com/ymersod/RobloxProjects)**<br>
+🕹️ Currently working on **[Trials of Friendship](https://gitshare.me/repo/f1d654c5-26e6-493d-b61e-3ae2d81737d6)**, with a talented artist. Also working as a free-lance developer for **[NOYO-Productions](https://noyoproductions.com/)**. <br>
 🔍 Actively seeking opportunities in **Software Engineering & Game Development** <br>
 
 ⚡ **Fun Fact:** *I'm a proud owner of a 1st edition Blue eyes white dragon YU-GI-OH Card*
