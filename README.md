@@ -19,7 +19,7 @@
 
 *A chaotic, casual “don’t let it” experience on Roblox — players must manage flushing without overflowing the toilet! Starts in a lobby, then transitions into a fast-paced running mode.*
 
-⏳ **Development:** In progress. Built by 2 game developers and 1 business developer  
+⏳ **Development:** Built by 2 game developers and 1 business developer  
 ✅ **Built With:** Roblox Studio (Luau), NoSQL DataStore APIs  
 🎮 **Role:** Gameplay Engineer, GUI Engineer, Team Lead  
 ⚙️ **Focus:** Creating a fun, replayable casual game designed for horizontal scalability into multiple themed versions  
